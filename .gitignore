@@ -1,6 +1,6 @@
 .DS_Store
 *.sh
-*.py
 *.data
 *.tar
+*.tar.gz
 *.csv
